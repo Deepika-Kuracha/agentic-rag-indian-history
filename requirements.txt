@@ -1,0 +1,4 @@
+langchain
+faiss-cpu
+pypdf
+generative engine platform
